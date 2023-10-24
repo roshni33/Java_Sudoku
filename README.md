@@ -15,6 +15,9 @@ A Sudoku solver program in Java is a computer application that takes an unsolved
 The '.' character indicates empty cells.
 
 ## How Backtracking Works
-![IMG_20231024_230837](https://github.com/roshni33/Java_Sudoku/assets/111836105/eeba6856-a7dc-4e05-95ed-fe9539393640)
+<p align="center">
+  <img src="https://github.com/roshni33/Java_Sudoku/assets/111836105/eeba6856-a7dc-4e05-95ed-fe9539393640" alt="Image Description" width="700" height="1000">
+</p>
+
 
 
